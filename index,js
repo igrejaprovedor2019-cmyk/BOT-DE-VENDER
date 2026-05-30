@@ -382,4 +382,4 @@ ${item}
 
 });
 
-client.login("MTUxMDMwMzIxMTkxODA2NTg2NA.GLqL8Q.zIta-2YCmxracQhyjZykpy2xnPQiDwaeymzQVo");
+client.login(process.env.TOKEN);
